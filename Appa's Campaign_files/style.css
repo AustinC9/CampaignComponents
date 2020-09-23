@@ -1,0 +1,16 @@
+.jumbotron-with-bg-image{
+    background-image: url('images/appaLarge.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 800px;
+   }
+.carousel-inner{
+    bottom: -300px;
+}
+.carousel-slide{
+    bottom: -300px;
+}
+#demo{
+    bottom: -300px;
+}
+body { background-color: coral;}
