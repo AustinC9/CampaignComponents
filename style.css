@@ -4,10 +4,17 @@
     background-repeat: no-repeat;
     min-height: 800px;
    }
+   body {
+    background: url('images/appabg.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
 
-body { background-color: coral;}
+/* body { background-color: coral;} */
 
-.btn .btn-lg .btn-danger {
+/* .btn .btn-lg .btn-danger {
 background-color: coral
-}
+} */
 
